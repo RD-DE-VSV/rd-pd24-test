@@ -1,2 +1,2 @@
 # rd-pd24-test
-Test repository
+Test repository for VSV
